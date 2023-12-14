@@ -45,10 +45,10 @@
   display: flex;
   overflow: hidden;
   justify-content: right;
-  width: 400px;
-  height: 400px;
+  width: 500px;
+  height: 500px;
   padding-left: 100px;
-  padding-top: 50px;
+  padding-top: 110px;
   padding-bottom: 50px;
 }
 
